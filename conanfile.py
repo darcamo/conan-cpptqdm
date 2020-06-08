@@ -5,7 +5,7 @@ from conans import ConanFile, tools
 
 class CpptqdmConan(ConanFile):
     name = "cpptqdm"
-    version = "2019-01-17-9c1e6f3"
+    version = "2020-03-28-04c733f"
     license = "LICENSE"
     author = "Darlan Cavalcante Moreira (darcamo@gmail.com)"
     url = "https://github.com/darcamo/conan-cpptqdm"
